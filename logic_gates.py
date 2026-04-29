@@ -1,4 +1,4 @@
-print("---Binary Inputs for logic gate verification---")
+print("--- Logic gate verification with  binary input---")
 
 def AND():
     n = int(input("Enter number of test cases to check: "))
